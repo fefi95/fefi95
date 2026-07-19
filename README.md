@@ -30,9 +30,10 @@ I am a **Computer Engineer** driven by curiosity, critical thinking, and the cha
 
 ---
 
-### 🚀 Projects
+### 📌 Currently
 
-<!-- Please pin your actual repositories on your GitHub profile, or replace these with repos you have committed to in the last 2 years -->
+- 🌱 **Currently learning:** Latest AI trends, including **Harness Engineering**
+- 📺 **Currently watching:** *The Handmaid’s Tale*
 
 ---
 
@@ -48,7 +49,7 @@ I am a **Computer Engineer** driven by curiosity, critical thinking, and the cha
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fefi95&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fefi95&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 <p align="center">
