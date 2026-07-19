@@ -1,16 +1,44 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/fefi95">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=C792EA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Stefani+Castellanos+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Computer+Engineer;Problem+Solver;Team+Builder" alt="Typing SVG" />
+  </a>
+</p>
 
-<!--
-**fefi95/fefi95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fefi95&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+I am a **Computer Engineer** driven by curiosity, critical thinking, and the challenge of building new things from scratch. I thrive in ambiguity and bring people together to solve complex, ill-defined problems. I dig deep to uncover root causes, design creative solutions, and build systems that create stability in fast-moving environments. My leadership style is firm, friendly, and approachable—I walk teams through the *why* behind technical strategy so we can move faster with clarity and zero friction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,html,css)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,django,flask,fastapi,bootstrap,tailwind)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,postgres,mysql)](https://skillicons.dev)
+
+---
+
+### 📌 Currently
+
+- 🌱 **Currently learning:** Japanese. Latest AI trends, including **Harness Engineering**
+- 📺 **Currently watching:** *The Handmaid’s Tale*. *Classroom of the elite*
+
+---
+
+### 🌸 A Little About Me
+
+- 🎌 Huge **anime** fan and TV series binge-watcher  — always on the lookout for the next great series
+- 🎵 Love **rock & metal** music and deep-diving into artists and albums
+- 🧶 Enjoy **knitting** and **crochet** as a creative outlet
+- 🧘 Practice **yoga** and love **dancing**
+- 🌿 Passionate about the **environment** — I try to do as much as I can to preserve it
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fefi95&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
