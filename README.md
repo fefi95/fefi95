@@ -24,7 +24,7 @@ I am a **Computer Engineer** driven by curiosity, critical thinking, and the cha
 
 ### 📌 Currently
 
-- 🌱 **Currently learning:** Latest AI trends, including **Harness platform engineering**
+- 🌱 **Currently learning:** Latest AI trends, including **Harness Engineering**
 - 📺 **Currently watching:** *The Handmaid’s Tale*
 
 ---
