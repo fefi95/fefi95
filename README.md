@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=fefi95&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
-I am a **Computer Engineer** driven by curiosity, critical thinking, and the challenge of building new things from scratch. I thrive in ambiguity, bringing people together to solve complex, ill-defined problems; I dig deep to uncover root causes and design creative solutions; and in fast-moving environments, I build methodologies and systems that bring stability and predictability. My leadership style is firm, friendly, and approachable—I don’t just point in a direction, I walk teams through the *why* behind technical strategy so we can move faster with clarity and zero friction.
+I am a **Computer Engineer** driven by curiosity, critical thinking, and the challenge of building new things from scratch. I thrive in ambiguity and bring people together to solve complex, ill-defined problems. I dig deep to uncover root causes, design creative solutions, and build systems that create stability in fast-moving environments. My leadership style is firm, friendly, and approachable—I walk teams through the *why* behind technical strategy so we can move faster with clarity and zero friction.
 
 ---
 
@@ -24,7 +24,7 @@ I am a **Computer Engineer** driven by curiosity, critical thinking, and the cha
 
 ### 📌 Currently
 
-- 🌱 **Currently learning:** Latest AI trends, including **Harness Engineering**
+- 🌱 **Currently learning:** Latest AI trends, including **Harness platform engineering**
 - 📺 **Currently watching:** *The Handmaid’s Tale*
 
 ---
