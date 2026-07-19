@@ -8,15 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=fefi95&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
-I am a **Computer Engineer** driven by curiosity, critical thinking, and the challenge of building new things from scratch. I believe leadership should be firm, friendly, and approachable. I don't just point in a direction — I walk teams through the *why* of a technical strategy. By looking at problems from all angles and keeping communication open, I help teams move faster with zero friction.
-
----
-
-### 💡 What I Do
-
-* **Embrace Ambiguity:** I excel at gathering people together to solve complex, ill-defined problems.
-* **Diagnose & Solve:** I love researching and getting to the exact root cause of what isn't working to build a creative solution.
-* **Bring Predictability:** In a fast-paced software landscape, I design methodologies and systems that create stability.
+I am a **Computer Engineer** driven by curiosity, critical thinking, and the challenge of building new things from scratch. I thrive in ambiguity, bringing people together to solve complex, ill-defined problems; I dig deep to uncover root causes and design creative solutions; and in fast-moving environments, I build methodologies and systems that bring stability and predictability. My leadership style is firm, friendly, and approachable—I don’t just point in a direction, I walk teams through the *why* behind technical strategy so we can move faster with clarity and zero friction.
 
 ---
 
