@@ -16,24 +16,23 @@ I am a **Computer Engineer** driven by curiosity, critical thinking, and the cha
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,html,css)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,django,flask,fastapi,spring,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,django,flask,fastapi,bootstrap,tailwind)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,postgres,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,postgres,mysql)](https://skillicons.dev)
 
 ---
 
 ### 📌 Currently
 
-- 🌱 **Currently learning:** Latest AI trends, including **Harness Engineering**
-- 📺 **Currently watching:** *The Handmaid’s Tale*
+- 🌱 **Currently learning:** Japanese. Latest AI trends, including **Harness Engineering**
+- 📺 **Currently watching:** *The Handmaid’s Tale*. *Classroom of the elite*
 
 ---
 
 ### 🌸 A Little About Me
 
-- 🎌 Huge **anime** fan — always on the lookout for the next great series
+- 🎌 Huge **anime** fan and TV series binge-watcher  — always on the lookout for the next great series
 - 🎵 Love **rock & metal** music and deep-diving into artists and albums
-- 📺 Series binge-watcher and storytelling enthusiast
 - 🧶 Enjoy **knitting** and **crochet** as a creative outlet
 - 🧘 Practice **yoga** and love **dancing**
 - 🌿 Passionate about the **environment** — I try to do as much as I can to preserve it
