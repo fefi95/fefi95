@@ -1,6 +1,14 @@
-# Hi there, I'm Stefani Castellanos 👩‍💻
+<p align="center">
+  <a href="https://github.com/fefi95">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=C792EA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Stefani+Castellanos+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Computer+Engineer;Problem+Solver;Team+Builder" alt="Typing SVG" />
+  </a>
+</p>
 
-I am a **Computer Engineer** driven by curiosity, critical thinking, and the challenge of building new things from scratch.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fefi95&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
+
+I am a **Computer Engineer** driven by curiosity, critical thinking, and the challenge of building new things from scratch. I believe leadership should be firm, friendly, and approachable. I don't just point in a direction — I walk teams through the *why* of a technical strategy. By looking at problems from all angles and keeping communication open, I help teams move faster with zero friction.
 
 ---
 
@@ -9,12 +17,6 @@ I am a **Computer Engineer** driven by curiosity, critical thinking, and the cha
 * **Embrace Ambiguity:** I excel at gathering people together to solve complex, ill-defined problems.
 * **Diagnose & Solve:** I love researching and getting to the exact root cause of what isn't working to build a creative solution.
 * **Bring Predictability:** In a fast-paced software landscape, I design methodologies and systems that create stability.
-
----
-
-### 🤝 Leadership Style
-
-I believe leadership should be firm, friendly, and approachable. I don't just point in a direction — I walk teams through the *why* of a technical strategy. By looking at problems from all angles and keeping communication open, I help teams move faster with zero friction.
 
 ---
 
@@ -30,12 +32,7 @@ I believe leadership should be firm, friendly, and approachable. I don't just po
 
 ### 🚀 Projects
 
-| Project | Description |
-|---------|-------------|
-| [**GrailsShiro**](https://github.com/fefi95/GrailsShiro) | Grails plugin integration with Apache Shiro for authentication & authorization |
-| [**DjangoChat**](https://github.com/fefi95/DjangoChat) | Real-time chat application built with Django and WebSockets |
-| [**FunctionProgramming**](https://github.com/fefi95/FunctionProgramming) | Functional programming exercises and concepts in Haskell |
-| [**ReportesEspeciales**](https://github.com/fefi95/ReportesEspeciales) | Special reports system |
+<!-- Please pin your actual repositories on your GitHub profile, or replace these with repos you have committed to in the last 2 years -->
 
 ---
 
@@ -51,5 +48,9 @@ I believe leadership should be firm, friendly, and approachable. I don't just po
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fefi95&show_icons=true&theme=tokyonight" alt="Stefani's GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fefi95&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fefi95&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
