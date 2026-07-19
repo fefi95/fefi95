@@ -41,9 +41,5 @@ I am a **Computer Engineer** driven by curiosity, critical thinking, and the cha
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fefi95&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=fefi95&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
